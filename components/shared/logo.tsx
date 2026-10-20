@@ -15,7 +15,6 @@ export function Logo({
       <Image
         alt={config.brand.image.alt}
         height={size}
-        priority
         src={config.brand.image.src}
         width={size}
       />

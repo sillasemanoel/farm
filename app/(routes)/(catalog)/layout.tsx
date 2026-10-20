@@ -1,5 +1,4 @@
 import { Copyright } from "@/components/shared/copyright"
-
 import { Logo } from "@/components/shared/logo"
 import { Footer, Header, Main, Template } from "@/components/shared/template"
 import { ThemeToggle } from "@/components/shared/theme-toggle"
